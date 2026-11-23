@@ -1,49 +1,118 @@
 ---
-title: "Privacy"
+title: "الخصوصية"
 slug: privacy
 original_url: https://jonathanmccallum.com/privacy/
 ---
 
-# Privacy
+# الخصوصية
 
-This site is run by Jonathan McCallum. It is a small personal site: writing, and a chat that answers from that writing. There are no accounts, no tracking, no advertising, and nothing for sale.
+يدير هذا الموقع جوناثان ماكالوم، الذي يعيش في غيتاريا بإسبانيا. إنه موقع شخصي صغير: كتابات، ومحادثة تجيب انطلاقًا من تلك الكتابات. لا توجد حسابات لإنشائها هنا، ولا تتبّع، ولا إعلانات، ولا شيء للبيع. وهو يتبع قانون الخصوصية الأوروبي (اللائحة العامة لحماية البيانات GDPR) لجميع الزوار، أينما كانوا في العالم.
 
-If you need to ask about anything on this page, or about your personal data, write to Jonathan at <a href="#" data-contact-email data-contact-email-text>Email me</a>. You can also message him on [Instagram](https://www.instagram.com/jonamccallum) or [Threads](https://www.threads.com/@jonamccallum).
+إذا احتجت إلى السؤال عن أي شيء في هذه الصفحة، أو عن بياناتك الشخصية، فاكتب إلى جوناثان على <a href="#" data-contact-email data-contact-email-text>راسلني بالبريد</a>. ويمكنك أيضًا مراسلته على [إنستغرام](https://www.instagram.com/jonamccallum) أو [ثريدز](https://www.threads.com/@jonamccallum).
 
-## The chat: "Interact with Jonathan's writing"
+## من المسؤول عن بياناتك
 
-When you type a question, it is sent to Cloudflare — the company that hosts this site — so its AI can look through Jonathan's published writing and draft an answer. The answer comes only from his writing, with a link to the post it came from.
+جوناثان ماكالوم هو المتحكم في بيانات هذا الموقع. وهذا يعني أنه هو من يقرر ما الذي يُجمع ولماذا. وهو ليس شركة، وليس هناك مسؤول عن حماية البيانات — فموقع شخصي صغير كهذا لا يحتاج إلى واحد.
 
-- The site does not store your questions.
-- The chat is not Jonathan. It is an AI, and it can get things wrong.
-- Cloudflare is a US company, so your question may be processed outside Europe. That transfer is part of running the chat.
+## ما الذي يُجمع، ولماذا
 
-## Leave a note
+### المحادثة: "تفاعل مع كتابات جوناثان"
 
-Notes are anonymous. The site asks for no name, no email, and no social media handle — please don't put personal details in a note. A note is stored on Cloudflare until Jonathan has read it, then it is deleted. If you would like a reply, write to him at <a href="#" data-contact-email data-contact-email-text>Email me</a> or message him on social media instead.
+عندما تكتب سؤالًا، يُرسل إلى Cloudflare — الشركة التي تستضيف هذا الموقع — لكي يبحث ذكاؤها الاصطناعي في كتابات جوناثان المنشورة ويصوغ إجابة. وتأتي الإجابة من كتاباته فقط، مع رابط إلى المقال الذي أُخذت منه.
 
-## What is not collected
+- سؤالك نفسه لا يُحفظ. بل يتحول إلى رمز أحادي الاتجاه (تجزئة) لكي يتمكن الموقع من العثور على إجابة محفوظة إذا سأل شخص آخر السؤال نفسه. وتُحفظ الإجابات الجيدة لمدة 7 أيام، ثم تُحذف.
+- المحادثة ليست جوناثان. إنها ذكاء اصطناعي، وقد تخطئ.
+- الأساس القانوني للمحادثة هو المصلحة المشروعة: تشغيل موقع صغير يجيب عن الأسئلة انطلاقًا من كتابات منشورة.
 
-- No cookies, no tracking, no analytics, no advertising.
-- Search runs entirely on your own device.
-- A YouTube video only loads if you tap play on it.
-- The site never asks for your email address or social media details. If you ever see a form here asking for them, it is not part of this site — please don't fill it in.
+### تسجيل الدخول
 
-## Your rights under European law (GDPR)
+يمكنك تسجيل الدخول عبر Google أو Instagram أو LINE أو بالبريد الإلكتروني، لكي يعرف جوناثان أن قصة أو اقتراحًا أو تعليقًا هو منك فعلًا. وتسجيل الدخول يثبت هويتك فقط. فهو لا يستطيع النشر نيابة عنك، ولا قراءة رسائلك، ولا رؤية أي شيء خاص. ويبقى تسجيل دخولك بينك وبين Google أو Instagram أو LINE أو مزود بريدك الإلكتروني — فهذا الموقع لا يرى كلمة مرورك أبدًا.
 
-This site follows the EU's General Data Protection Regulation (GDPR) as its standard, wherever you are in the world.
+ما الذي يشاركه كل تسجيل دخول مع الموقع:
 
-- You can ask what personal data, if any, this site holds about you.
-- You can ask for it to be corrected or deleted, or for its use to be restricted.
-- You can object to its use, and you can complain to your local data protection authority. Jonathan lives in Spain, where the authority is the AEPD (Agencia Española de Protección de Datos).
-- Because the site stores nothing that identifies you — no accounts, no emails, no tracking — there is usually nothing to show or delete. Ask anyway and he will answer.
+- Google: اسمك وعنوان بريدك الإلكتروني الموثّق.
+- Instagram: اسم المستخدم الخاص بك ورابط ملفك الشخصي.
+- LINE: الاسم الذي تظهر به على LINE.
+- البريد الإلكتروني: عنوان بريدك الإلكتروني، ويثبت برمز من 6 أرقام يعمل مرة واحدة وينتهي بعد 10 دقائق.
 
-The legal basis for the chat is legitimate interest: running a small site that answers questions from published writing. The legal basis for a note is your consent: you choose to leave one.
+وتُعرض تفاصيل تسجيل دخولك على جوناثان فقط، لكي يتحقق من أنك شخص حقيقي ويرد عليك. وهي لا تظهر أبدًا علنًا على الموقع. والأساس القانوني هو موافقتك: فأنت تختار تسجيل الدخول.
 
-## Children
+### شارك قصتك (مقابلات)
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+إذا شاركت قصتك، يحتفظ الموقع باسمك ورابط ملفك الاجتماعي وإجاباتك عن الأسئلة الثلاثة، إضافة إلى ملاحظة عن طريقة تسجيل الدخول التي استخدمتها وما إذا كان ملفك موثّقًا. ولا يُنشر أي شيء قبل أن يراجعه جوناثان أولًا ويتحدث معك. والأساس القانوني هو موافقتك: فأنت تختار إرسالها، وتضع علامة في مربع الإذن.
 
-## Changes
+### اقترح فنانًا
 
-This page will be updated if anything about the site changes. Last updated 21 November 2026.
+إذا اقترحت فنانًا، يحتفظ الموقع باسم الفنان ورابط ملفه، وما تريد من جوناثان أن يفعله معه، ولماذا هو، واسمك ورابطك إذا قدمتهما. ولا حاجة إلى تسجيل الدخول. والأساس القانوني هو موافقتك.
+
+### اترك ملاحظة
+
+الملاحظات مجهولة. ولا يطلب الموقع اسمًا ولا بريدًا إلكترونيًا ولا اسم حساب على وسائل التواصل — فالرجاء عدم وضع تفاصيل شخصية في ملاحظة. وتُحفظ الملاحظة حتى يقرأها جوناثان ويحذفها. وإذا أردت ردًا، فاكتب إليه على <a href="#" data-contact-email data-contact-email-text>راسلني بالبريد</a> أو راسله على وسائل التواصل الاجتماعي. والأساس القانوني هو موافقتك: فأنت تختار ترك ملاحظة.
+
+### التعليقات
+
+إذا علّقت على مقال، يحتفظ الموقع باسمك وتعليقك ورابط إلى ملفك الاجتماعي أو فيديو إذا أضفت واحدًا. ويراجع جوناثان التعليقات قبل ظهورها. والأساس القانوني هو موافقتك.
+
+### البحث
+
+يعمل البحث بالكامل على جهازك. ولا يُرسل أي شيء تبحث عنه إلى أي مكان.
+
+### الفيديوهات
+
+لا يُحمَّل فيديو YouTube إلا إذا ضغطت على زر التشغيل. وحتى ذلك الحين، لا يُحمَّل أي فيديو ولا يُرسل أي شيء إلى YouTube.
+
+## ملفات تعريف الارتباط
+
+يستخدم هذا الموقع عددًا قليلًا جدًا من ملفات تعريف الارتباط. ولا يتتبعك أي منها.
+
+| ملف تعريف الارتباط أو التخزين | ماذا يفعل | كم يدوم |
+|---|---|---|
+| `interview_session` | يُبقيك مسجلًا للدخول أثناء مشاركة قصتك أو التعليق. | ساعة واحدة |
+| `theme` (محفوظ على جهازك) | يتذكر ما إذا اخترت المظهر الفاتح أو الداكن. | حتى تغيّره |
+| `cookie-consent` (محفوظ على جهازك) | يتذكر ما إذا قبلت ملفات تعريف الارتباط أو رفضتها، حتى لا يسأل الشريط مرة أخرى. | حتى تغيّره |
+| تسجيل الدخول عبر Google | فقط إذا قبلت ملفات تعريف الارتباط: يُحمَّل زر تسجيل الدخول الخاص بـ Google من Google، وقد تضع Google ملفات تعريف الارتباط الخاصة بها. انظر [سياسة خصوصية Google](https://policies.google.com/privacy). | تحدده Google |
+
+سترى شريط ملفات تعريف الارتباط في زيارتك الأولى. وفيه زران، "قبول" و"رفض"، جنبًا إلى جنب. وكلاهما يؤدي المهمة نفسها — فلا خدعة. وإذا رفضت، فسيظل الموقع يعمل: فيمكنك قراءة كل شيء، واستخدام المحادثة، وتسجيل الدخول عبر Instagram أو LINE أو البريد الإلكتروني. ويبقى زر تسجيل الدخول عبر Google وحده متوقفًا، لأنه يحتاج إلى ملفات تعريف ارتباط Google ليُحمَّل. ويمكنك تغيير رأيك في أي وقت عبر رابط "إعدادات ملفات تعريف الارتباط" في أسفل أي صفحة.
+
+## أين تعيش بياناتك
+
+يستضيف الموقع Cloudflare، وهي شركة أمريكية. وتعيش الصفحات والمحادثة وتسجيل الدخول والملاحظات المحفوظة على شبكة Cloudflare، في الولايات المتحدة وفي أوروبا. وتُرسل رموز تسجيل الدخول بالبريد الإلكتروني عبر Resend، وهي شركة أمريكية أيضًا: تُرسل الرسائل من أيرلندا، لكن Resend تخزن البريد وتفاصيل التسليم في الولايات المتحدة لمدة 30 يومًا. وتذهب الرسائل التي يتلقاها جوناثان عن الملاحظات والقصص والاقتراحات الجديدة إلى حساب Gmail الخاص به.
+
+وتغطي عمليات النقل خارج أوروبا البنود التعاقدية القياسية في اتفاقيتي معالجة البيانات لدى Cloudflare وResend، وإطار خصوصية البيانات بين الاتحاد الأوروبي والولايات المتحدة، الذي تشارك فيه الشركتان.
+
+## كم تُحفظ الأشياء
+
+- جلسات تسجيل الدخول: ساعة واحدة. ورموز تسجيل الدخول: 10 دقائق.
+- إجابات المحادثة: 7 أيام، ثم تُحذف.
+- الملاحظات والقصص والاقتراحات والتعليقات: تُحفظ حتى يتعامل معها جوناثان ويحذفها.
+- رموز تسجيل الدخول من Resend: تحفظها Resend لمدة 30 يومًا.
+
+## البيع والإعلانات
+
+لا يبيع هذا الموقع معلوماتك الشخصية. ولا يشارك معلوماتك لأغراض إعلانية، ولا توجد إعلانات على هذا الموقع. والآخرون الوحيدون الذين يتعاملون مع بياناتك هم الخدمات المذكورة أعلاه (Cloudflare وResend وGmail)، وهم يعالجونها فقط لتشغيل الموقع.
+
+## حقوقك بموجب القانون الأوروبي (GDPR)
+
+يتبع هذا الموقع اللائحة العامة لحماية البيانات (GDPR) في الاتحاد الأوروبي كمعيار له، أينما كنت في العالم.
+
+- يمكنك أن تسأل عن البيانات الشخصية، إن وجدت، التي يحتفظ بها هذا الموقع عنك.
+- ويمكنك أن تطلب تصحيحها أو حذفها، أو تقييد استخدامها.
+- ويمكنك أن تطلب نسخة منها، ويمكنك الاعتراض على استخدامها.
+- ويمكنك سحب موافقتك في أي وقت — على سبيل المثال، بتسجيل الخروج، أو بطلب حذف ما أرسلته من جوناثان.
+- ويمكنك الشكوى إلى هيئة حماية البيانات المحلية. ويعيش جوناثان في إسبانيا، حيث الهيئة هي AEPD (Agencia Española de Protección de Datos، aepd.es).
+
+ولأن الموقع يخزن القليل جدًا، فعادة لا يوجد شيء لعرضه أو حذفه. واسأل على أي حال وسيجيب. وللسؤال، اكتب إلى جوناثان على <a href="#" data-contact-email data-contact-email-text>راسلني بالبريد</a>، أو راسله على [إنستغرام](https://www.instagram.com/jonamccallum) أو [ثريدز](https://www.threads.com/@jonamccallum).
+
+## الأطفال
+
+هذا الموقع ليس للأشخاص دون سن 18. إنه يتحدث عن الإيمان بيسوع، وهذا محتوى ديني، لذا فهو مكتوب للبالغين. وإذا كنت دون سن 18، فالرجاء عدم مشاركة معلومات شخصية هنا، وعدم الكتابة إلى جوناثان.
+
+وفي إسبانيا، يقول القانون إن الطفل دون سن 14 يحتاج إلى موافقة أحد الوالدين أو الوصي قبل مشاركة بياناته الشخصية عبر الإنترنت. وقاعدة هذا الموقع نفسه أشد من ذلك: إذا كنت دون سن 18، فهذا الموقع ليس لك.
+
+## إشعار قانوني
+
+هذا موقع شخصي. وكل شيء فيه من كتابة جوناثان وآرائه الخاصة. وهو ليس نصيحة مهنية من أي نوع — لا طبية ولا قانونية ولا مالية ولا غيرها. وتجيب المحادثة فقط انطلاقًا من كتاباته المنشورة، وقد تخطئ. وإذا كان شيء ما على هذا الموقع خاطئًا أو قديمًا، فأخبره وسيصححه.
+
+## التغييرات
+
+ستُحدَّث هذه الصفحة إذا تغير أي شيء في الموقع. آخر تحديث: 23 نوفمبر 2026.
