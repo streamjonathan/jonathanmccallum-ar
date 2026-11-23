@@ -91,8 +91,8 @@
 </script>
 {% endif %}
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed/">
-<link rel="preload" href="/css/style.css?v=13" as="style">
-<link rel="stylesheet" href="/css/style.css?v=12">
+<link rel="preload" href="/css/style.css?v=14" as="style">
+<link rel="stylesheet" href="/css/style.css?v=13">
 </head>
 <body>
 <a class="skip-link" href="#main">تخطَّ إلى المحتوى</a>
@@ -104,12 +104,20 @@
 {{ content | safe }}
 </main>
 <footer class="site-footer">
-    <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">بحث</a> · <a href="/privacy/">الخصوصية</a></p>
+    <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">بحث</a> · <a href="/privacy/">الخصوصية</a> · <a href="#" id="cookie-settings">إعدادات ملفات تعريف الارتباط</a></p>
   <p>Connect — <a href="https://www.instagram.com/jonamccallum">Instagram</a> · <a href="https://www.threads.com/@jonamccallum">Threads</a> · <a href="https://www.youtube.com/@Jonathanmccallum1">YouTube</a> · <a href="https://jonamccallum.substack.com">Substack</a> · <a href="/feed/">RSS</a></p>
   <p>قل مرحبًا — <a href="#" data-contact-email data-contact-email-text>راسلني بالبريد</a></p>
   <p>Built with Eleventy, hosted on Cloudflare Pages.</p>
 </footer>
 <script src="/js/main.js?v=8" defer></script>
 <script src="/js/contact.js?v=1" defer></script>
+<script src="/js/consent.js?v=1" defer></script>
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-label="ملفات تعريف الارتباط" hidden>
+  <p><strong>ملفات تعريف الارتباط.</strong> هذا الموقع يجعل الأمور بسيطة: فهو يتذكر فقط اختيارك للمظهر الفاتح أو الداكن على جهازك. ولا شيء هنا يتعقّبك. <a href="/privacy/">اقرأ صفحة الخصوصية</a>.</p>
+  <p class="cookie-banner__buttons">
+    <button id="cookie-accept" type="button">قبول</button>
+    <button id="cookie-reject" type="button">رفض</button>
+  </p>
+</div>
 </body>
 </html>
