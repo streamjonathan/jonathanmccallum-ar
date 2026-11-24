@@ -42,11 +42,6 @@ shareImage: /images/music-faith/youssefpeterofficial.jpg
 <span class="ig-card__text"><span class="ig-card__name">Neama Issac</span>
 <span class="ig-card__note">مرنمة قبطية تغني بالعربية.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAI5Mnh_E-/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sandyazmyworship.jpg" alt="Sandy Azmy" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Sandy Azmy</span>
-<span class="ig-card__note">تسبيح بالعربية — «كل نسمة فلتسبح الرب».</span></span>
-</a>
 <a class="ig-card" href="https://www.instagram.com/reel/DTDbF4jDLlv/" target="_blank" rel="noopener">
 <img class="ig-card__img" src="/images/music-faith/ghinaibrahimibrahim.jpg" alt="Ghina Ibrahim" loading="lazy" width="150" height="150">
 <span class="ig-card__text"><span class="ig-card__name">Ghina Ibrahim</span>
@@ -67,11 +62,6 @@ shareImage: /images/music-faith/youssefpeterofficial.jpg
 <span class="ig-card__text"><span class="ig-card__name">Youanna Magdy</span>
 <span class="ig-card__note">تسبيح بالعربية من المزمور.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DGIcclTNn2C/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/joseph_mtrk.jpg" alt="Joseph" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Joseph</span>
-<span class="ig-card__note">يرنم بالعربية — «الرب راعيّ».</span></span>
-</a>
 <a class="ig-card" href="https://www.instagram.com/reel/DfDKSuDuAiv/" target="_blank" rel="noopener">
 <img class="ig-card__img" src="/images/music-faith/christianenajjar.jpg" alt="Christiane Najjar" loading="lazy" width="150" height="150">
 <span class="ig-card__text"><span class="ig-card__name">Christiane Najjar</span>
@@ -79,7 +69,7 @@ shareImage: /images/music-faith/youssefpeterofficial.jpg
 </a>
 </div>
 
-أتساءل أي الأغاني حملتك. أي أغنية حملت إيمانك حين نفدت الكلمات؟ وأي هؤلاء الاثني عشر ستستمع إليه أولًا؟
+أتساءل أي الأغاني حملتك. أي أغنية حملت إيمانك حين نفدت الكلمات؟ وأي هؤلاء العشرة ستستمع إليه أولًا؟
 
 أخبرني بما تستمع إليه. أنا دائمًا أبحث عن أغانٍ جديدة.
 
